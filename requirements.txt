@@ -1,0 +1,2 @@
+# Excel workbook storage used by server.py
+openpyxl>=3.1.5,<4
